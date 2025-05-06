@@ -44,7 +44,7 @@ Visit the deployed frontend or run locally to upload your dataset
 Analyze and interact with real-time ML outputs
 
 🌐 Live Demo
-👉 [text](https://ml-dashboard-frontend.vercel.app/)
+👉 https://ml-dashboard-frontend.vercel.app/
 ---
 
 ## 📄 License
